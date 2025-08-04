@@ -1,3 +1,5 @@
+# Easy_Visa_AdvML_c
+
 Project Overview
 
  The Office of Foreign Labor Certification (OFLC) in the U.S. processes hundreds of thousands of visa applications each year. In FY 2016 alone, over 775,000 applications were submitted — a 9% increase from the previous year. Reviewing these manually has become time-consuming and inefficient. OFLC partnered with EasyVisa, where I worked as a data scientist, to create a machine learning solution to predict the likelihood of visa approval based on applicant and employer profiles.
